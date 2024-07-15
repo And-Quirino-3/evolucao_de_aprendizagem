@@ -23,9 +23,9 @@
     
     Separar as atividades a serem feitas por categorias: "urgente", "não urgente", "importante", "não importante".
   
-    Oque for "urgente e importante" = listar por ordem de duração da menor para maior e faça agora;
+    O que for "urgente e importante" = listar por ordem de duração da menor para maior e faça agora;
   
-    E oque for "não urgente e não importante" = agende.
+    E o que for "não urgente e não importante" = agende.
 
 :white_medium_square: ***LinkedIn: primeiros passos*** 
 
